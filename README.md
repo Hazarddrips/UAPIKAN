@@ -71,15 +71,15 @@ Gambar diatas menunjukkan *Classification Report* dari Model setelah dilakukan p
 
 ### Tampilan HomePage
 
-![image](https://github.com/RahinaBintang/RPS-Classification/blob/acad73dca7d4d8ca7e0a29add50b4cbb6addc189/assets/Home.png)
+![image]()
 
 ### Tampilan HomePage Setelah Upload Image
 
-![image](https://github.com/RahinaBintang/RPS-Classification/blob/acad73dca7d4d8ca7e0a29add50b4cbb6addc189/assets/Upload%20Image.png)
+![image]()
 
 ### Tampilan Prediction Result
 
-![image](https://github.com/RahinaBintang/RPS-Classification/blob/acad73dca7d4d8ca7e0a29add50b4cbb6addc189/assets/Prediction%20Result.png)
+![image]()
 
 ## Author 👨‍💻
 
